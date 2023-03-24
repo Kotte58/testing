@@ -1,1 +1,2 @@
 This is my new document.
+v1.0
